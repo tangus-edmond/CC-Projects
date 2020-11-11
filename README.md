@@ -1,2 +1,3 @@
 # CC-Projects
-Assignments and Labs from the Compiler Construction class by # 100189.
+
+Assignments and Labs from the Compiler Construction class done by #100189.
