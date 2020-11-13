@@ -13,7 +13,7 @@ A scanner that recognizes integers, four basic arithmetic operators and a unary 
 
 Requirements:
 1) Ubuntu/Linux OS
-2) Install flex - sudo apt install flex
+2) Install flex - `sudo apt install flex`
 
 Once flex is installed we can now run "analyzer.l" <br>
   ```
