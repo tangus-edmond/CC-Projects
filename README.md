@@ -15,11 +15,11 @@ Requirements:
 2) Install flex - sudo apt install flex
 
 Once flex is installed we can now run "analyzer.l"
- $ flex analyzer.l
- $ cc lex.yy.c -lfl
- $ ./a.out
- ["User Inputs a String"]
- $ CTRL + D (to exit the program)
+ $ flex analyzer.l <br/>
+ $ cc lex.yy.c -lfl <br/>
+ $ ./a.out <br/>
+ ["User Inputs a String"] <br/>
+ $ CTRL + D (to exit the program) <br/>
 
 ### Lab 2- Describing the Outputs (Lab 1)
 
