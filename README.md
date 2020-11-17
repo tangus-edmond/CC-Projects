@@ -1,6 +1,8 @@
 # CC-Projects
 Assignments and Labs from the Compiler Construction course.
 
+_Project done by 100189_
+
 ## Contents
   - Lab 1 - Lexical Analyzer
   - Lab 2 - Describing the Outputs
