@@ -2,8 +2,8 @@
 Assignments and Labs from the Compiler Construction course.
 
 ## Contents
-  - [Lab 1 - Lexical Analyzer]
-  - [Lab 2- Describing the Outputs]
+  - [Lab 1 - Lexical Analyzer](#lab 1)
+  - [Lab 2- Describing the Outputs](#lab 2)
 
 ## Lab 1 - Lexical Analyzer
 1) A simple lexical analyzer implementation in C++
