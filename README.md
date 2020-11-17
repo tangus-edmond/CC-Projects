@@ -47,6 +47,7 @@ __The output explained:__
 The scanner has identified tokens based on the regex rules defined in `analyzer.l`. There are nine patterns defined in the scanner:
 
 The first five patterns are literal operators, written as quoted strings, and their actions, they print a message saying what matched. The sixth pattern matches an integer. <br/>
+
 ```
 "+" { printf("PLUS\n"); }
 "-" { printf("MINUS\n"); }
@@ -55,7 +56,7 @@ The first five patterns are literal operators, written as quoted strings, and th
 "|" { printf("ABS\n"); }
 ```
 
-The bracketed pattern [0-9]matches any single digit, and + sign  matches a string of one or more digits. The action prints out the string that’s matched, using the pointer `yytext` that the scanner sets after each match. <br/>
+The bracketed pattern `[0-9]` matches any single digit, and `+` sign  matches a string of one or more digits. The action prints out the string that’s matched, using the pointer `yytext` that the scanner sets after each match. <br/>
 
 `[0-9]+ { printf("NUMBER %s\n", yytext); }` <br/>
 
