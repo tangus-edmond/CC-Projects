@@ -1,7 +1,7 @@
 # CC-Projects
 Assignments and Labs from the Compiler Construction course.
 
-_Project done by 100189_
+_Project done by https://github.com/tangus-edmond_
 
 ## Contents
   - Lab 1 - Lexical Analyzer
